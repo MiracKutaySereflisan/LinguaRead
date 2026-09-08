@@ -1,3 +1,4 @@
+// Copyright (c) 2026 Mirac Kutay Sereflisan. Tum haklari saklidir.
 import SwiftUI
 
 /// Kelimeleri akış düzeninde gösterir. Aktif kelime amber, aktif cümle mavi.
